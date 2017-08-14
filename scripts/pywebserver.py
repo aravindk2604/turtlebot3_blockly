@@ -6,7 +6,7 @@ import os
 from rospkg import RosPack
 
 rp = RosPack()
-frontend_path = rp.get_path('robot_blockly')
+frontend_path = rp.get_path('turtlebot3_blockly')
 frontend_path += '/frontend'
 
 print("Changing serve path to: " + frontend_path)
