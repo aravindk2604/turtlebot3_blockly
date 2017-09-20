@@ -42,7 +42,8 @@ roslaunch turtlebot3_blockly turtlebot3_blockly.launch
 ```
 
 ### Bugs/Issues
-![](https://github.com/aravindk2604/turtlebot3_blockly/issues)
+
+![Report here](https://github.com/aravindk2604/turtlebot3_blockly/issues)
 
 ### Documentation
 - [TurtleBot3 Blockly]()
