@@ -3,6 +3,9 @@ This is a modified version of the [erlerobot/robot_blockly](https://github.com/e
 You can now control TurtleBot3 using Blockly - drag and drop software developed by Google.
 
 ![](img/launchCode.png)
+
+### GIF showing drag-drop of blocks
+
 ![](img/simpCode.gif)
 
 ### Installation
