@@ -49,6 +49,6 @@ roslaunch turtlebot3_blockly turtlebot3_blockly.launch
 ![Report here](https://github.com/aravindk2604/turtlebot3_blockly/issues)
 
 ### Documentation
-- [TurtleBot3 Blockly]()
+- [TurtleBot3 Blockly Getting Started](http://turtlebot-3-blockly-wiki.rtfd.io/)
 - [TurtleBot3 setup](http://turtlebot3.robotis.com/en/latest/hardware.html)
 - [ROS Wiki](http://www.ros.org) 
