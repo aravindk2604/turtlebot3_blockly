@@ -40,7 +40,7 @@ catkin_make_isolated -j2 --pkg turtlebot3_blockly --install
 
 ```
 cd ~/blockly_ws
-source devel_isolated/setup.bash
+source devel_isolated/turtlebot3_blockly/setup.bash
 roslaunch turtlebot3_blockly turtlebot3_blockly.launch
 ```
 
